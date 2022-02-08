@@ -21,14 +21,14 @@
 - Object Oriented Programming & Functional Programming
 - Agile Methodology
 
-#### History -
+<!-- #### History - -->
 
-<table>
+<!-- <table>
   <tr>
     <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMinhaj&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
     <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
-</table>
+</table> -->
 
 #### Let's Be Friend -
 
@@ -72,13 +72,13 @@
   </tr>
 </table>
 
-<br/>
+<!-- <br/>
 <br/>
 <h3 align="center">
   اللہ حافظ
   <br />
   Thanks & Regards
-</h3>
+</h3> -->
 
 <!--
 **MuhammadMinhaj/MuhammadMinhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

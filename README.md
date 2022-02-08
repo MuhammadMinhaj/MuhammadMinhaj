@@ -1,4 +1,6 @@
-### السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ وَبَرَكاتُهُ
+<h3 align="left">
+ السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ وَبَرَكاتُهُ
+</h3>
 
 # A Full-Stack Web & Mobile Applications Developer
 
@@ -30,36 +32,51 @@
 
 #### Let's Be Friend -
 
-<ul style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap">
-  <li>
-    <a href="https://muhammadminhaj.github.io" target="_blank">Website</a>
-  </li>
-  <li>
-    <a href="https://www.facebook.com/MuhammadMinhaj2" target="_blank">Facebook</a>
-  </li>
-   <li>
-    <a href="https://www.linkedin.com/in/Muhammad-Minhaj" target="_blank">LinkedIn</a>
-  </li>
-  <li>
-    <a href="https://stackoverflow.com/users/13464821/muhammad-minhaj" target="_blank">StackOverflow</a>
-  </li>
-  <li>
-    <a href="https://g.dev/MuhammadMinhaj" target="_blank">Google Developer Profile</a>
-  </li>
-  
-  
-   
-</ul>
-
-<div style="text-align:center"> 
-  <h3>
-   اللہ حافظ
+<table align="center">
+  <tr>
+    <td>
       <div>
-      Thanks & Regards
+        <a href="https://muhammadminhaj.github.io" target="_blank">Website</a>
       </div>
-       
-  </h3>
-</div>
+    </td>
+    <td>
+      <div>
+        <a href="https://www.facebook.com/MuhammadMinhaj2" target="_blank"
+          >Facebook</a
+        >
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="https://www.linkedin.com/in/Muhammad-Minhaj" target="_blank"
+          >LinkedIn</a
+        >
+      </div>
+    </td>
+    <td>
+      <div>
+        <a
+          href="https://stackoverflow.com/users/13464821/muhammad-minhaj"
+          target="_blank"
+          >StackOverflow</a
+        >
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="https://g.dev/MuhammadMinhaj" target="_blank"
+          >Google Developer Profile</a
+        >
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">
+  اللہ حافظ
+  <br />
+  Thanks & Regards
+</h3>
 
 <!--
 **MuhammadMinhaj/MuhammadMinhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

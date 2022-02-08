@@ -32,7 +32,7 @@
 
 #### Let's Be Friend -
 
-<table align="center">
+<table align="left">
   <tr>
     <td>
       <div>
@@ -72,6 +72,8 @@
   </tr>
 </table>
 
+<br/>
+<br/>
 <h3 align="center">
   اللہ حافظ
   <br />
@@ -91,4 +93,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->

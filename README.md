@@ -62,6 +62,15 @@
         >
       </div>
     </td>
+     <td>
+      <div>
+        <a
+          href="https://www.hackerrank.com/MuhammadMinhaj"
+          target="_blank"
+          >HackerRank</a
+        >
+      </div>
+    </td>
     <td>
       <div>
         <a href="https://g.dev/MuhammadMinhaj" target="_blank"

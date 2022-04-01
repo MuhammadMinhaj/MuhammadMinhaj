@@ -4,17 +4,18 @@
 
 # A Full-Stack Web & Mobile Applications Developer
 
-**I'm Muhammad Minhaj from Bangladesh. a full-stack web & mobile applications developer. Compatible to work with most JavaScript libraries & frameworks and as well as has good knowledge in JavaScript. Love to use JavaScript in most cases to develop my new applications. I'm very passionate about technology and always keep learning new technologies to enhance my knowledge which is my pleasure. Always keeps plenty of patience to deal with any situation and is also ready to face any challenge related to technology. Reach out to me -**
+**I'm Muhammad Minhaj, who's a skilled and passionate full-stack web & mobile apps developer with extensive experience in teamwork. full-stack web development background and experience in JavaScript/TypeScript (Including MERN stack, GraphQL, and React-Native), Data structures, Algorithms, and Agile development methodologies & REST-based Web-services help to effectively handle independent projects, engage with the clients and analyze the requirements to identify and troubleshoot issues, provide support for production, collaborate as part of a productive team. Adaptable and curious specialist, able to learn and apply new technologies quickly and always keeps plenty of patience to deal with any situation, and who's also ready to face any challenges that are related to the technology. Reach out to me -**
 **programmer.mdminhaj@gmail.com**
 
 #### Currently work on -
 
-- JavaScript | TypeScript | NodeJs
-- ReactJs | React-Native | NextJs
-- GraphQL | NestJs | ExpressJS
+- JavaScript | TypeScript | NodeJS(RT)
+- ReactJS | React-Native | NextJS
+- TailwindCSS | Material-UI | Bootstrap
+- GraphQL | NestJS | ExpressJS
 - MongoDB | MySQL &...
 
-#### Knowledge -
+#### Knowledge in -
 
 - Data Structures & Algorithms
 - MVC Pettern & Best Practices

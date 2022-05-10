@@ -23,7 +23,7 @@
 - Agile Methodology
 
 
-#### Let's be friend -
+#### Let's Be Friend -
 
 <table align="left">
   <tr>

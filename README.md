@@ -34,7 +34,7 @@
     </td>
     <td>
       <div>
-        <a href="https://www.facebook.com/MuhammadMinhaj2" target="_blank"
+        <a href="https://www.facebook.com/MuhammadMinhaj.info" target="_blank"
           >Facebook</a
         >
       </div>

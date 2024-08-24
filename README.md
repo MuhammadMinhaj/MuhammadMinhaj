@@ -2,12 +2,13 @@
  السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ وَبَرَكاتُهُ
 </h3>
 
-# A Full-Stack Web & Mobile Applications Developer
+# A full-stack web & mobile apps developer
 
-**I'm Muhammad Minhaj, who's a skilled and passionate full-stack web & mobile apps developer with extensive experience in teamwork. full-stack web development background and experience in JavaScript/TypeScript (Including MERN stack, GraphQL, and React-Native), Data structures, Algorithms, and Agile development methodologies & REST-based Web-services help to effectively handle independent projects, engage with the clients and analyze the requirements to identify and troubleshoot issues, provide support for production, collaborate as part of a productive team. Adaptable and curious specialist, able to learn and apply new technologies quickly and always keeps plenty of patience to deal with any situation, and who's also ready to face any challenges that are related to the technology. Reach out to me -**
-**programmer.mdminhaj@gmail.com**
+**I'm Muhammad Minhaj, a skilled and passionate full-stack web and mobile apps developer with extensive experience in teamwork. With a solid background in full-stack web development, I specialize in JavaScript/TypeScript, including the MERN stack, GraphQL, and React Native. My expertise in data structures, algorithms, agile development methodologies, and REST-based web services enables me to effectively manage independent projects, engage with clients, and analyze requirements to identify and troubleshoot issues.**
+**I provide support for production environments and thrive in collaborative team settings. As an adaptable and curious specialist, I quickly learn and apply new technologies, maintaining patience and resilience to handle any situation. I'm always ready to face new challenges and deliver top-quality solutions in the tech industry.**
 
-#### Currently work on -
+
+#### Currently working on -
 
 - JavaScript | TypeScript | NodeJS(RT)
 - ReactJS | React-Native | NextJS
@@ -18,12 +19,12 @@
 #### Knowledge in -
 
 - Data Structures & Algorithms
-- MVC Pettern & Best Practices
+- MVC Pattern & Best Practices
 - Object Oriented Programming & Functional Programming
 - Agile Methodology
 
 
-#### Let's Be Friend -
+#### Follow me -
 
 <table align="left">
   <tr>
@@ -76,11 +77,6 @@
 
 <!-- <br/>
 <br/>
-<h3 align="center">
-  اللہ حافظ
-  <br />
-  Thanks & Regards
-</h3> -->
 
 <!--
 **MuhammadMinhaj/MuhammadMinhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

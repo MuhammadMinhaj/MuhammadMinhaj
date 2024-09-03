@@ -7,20 +7,23 @@
 I'm Muhammad Minhaj, a skilled and passionate full-stack web and mobile apps developer with extensive experience in teamwork. With a solid background in full-stack web development, I specialize in JavaScript/TypeScript, including the MERN stack, GraphQL, and React Native. My expertise in data structures, algorithms, agile development methodologies, and REST-based web services enables me to effectively manage independent projects, engage with clients, and analyze requirements to identify and troubleshoot issues. I provide support for production environments and thrive in collaborative team settings. As an adaptable and curious specialist, I quickly learn and apply new technologies, maintaining patience and resilience to handle any situation. I'm always ready to face new challenges and deliver top-quality solutions in the tech industry.
 
 
-#### Currently working on -
+#### Areas of Expertise:
 
-- JavaScript | TypeScript | NodeJS(RT)
-- ReactJS | React-Native | NextJS
-- TailwindCSS | Material-UI | Bootstrap
-- GraphQL | NestJS | ExpressJS
-- MongoDB | MySQL &...
+- Programming Languages: JavaScript, TypeScript, C
+- Front-End Skills: React, React Native, Next.js, Bootstrap, Material-UI, TailwindCSS, HTML5, CSS3
+- Back-End Skills: Node.js (RT), Express.js, NestJS, GraphQL
+- State Management: Redux, React-Redux, React Context API
+- Databases: MySQL, MongoDB
+- Testing Tools: Jest, Mocha, Chai
+- Development Tools: Figma, Git, Postman, WebStorm, Visual Studio Code, Android Studio
+- Development Methodologies: Agile
 
-#### Knowledge in -
+#### Additional Knowledge:
 
 - Data Structures & Algorithms
 - MVC Pattern & Best Practices
-- Object Oriented Programming & Functional Programming
-- Agile Methodology
+- Object-Oriented & Functional Programming
+- Agile Practices
 
 
 #### Follow me -

@@ -9,14 +9,14 @@ I'm Muhammad Minhaj, a skilled and passionate full-stack web and mobile apps dev
 
 #### Areas of Expertise:
 
-- Programming Languages: JavaScript, TypeScript, C
-- Front-End Skills: React, React Native, Next.js, Bootstrap, Material-UI, TailwindCSS, HTML5, CSS3
-- Back-End Skills: Node.js (RT), Express.js, NestJS, GraphQL
-- State Management: Redux, React-Redux, React Context API
-- Databases: MySQL, MongoDB
-- Testing Tools: Jest, Mocha, Chai
-- Development Tools: Figma, Git, Postman, WebStorm, Visual Studio Code, Android Studio
-- Development Methodologies: Agile
+- **Programming Languages:** JavaScript, TypeScript, C
+- **Front-End Skills:** React, React Native, Next.js, Bootstrap, Material-UI, TailwindCSS, HTML5, CSS3
+- **Back-End Skills:** Node.js (RT), Express.js, NestJS, GraphQL
+- **State Management:** Redux, React-Redux, React Context API
+- **Databases:** MySQL, MongoDB
+- **Testing Tools:** Jest, Mocha, Chai
+- **Development Tools:** Figma, Git, Postman, WebStorm, Visual Studio Code, Android Studio
+- **Development Methodologies:** Agile
 
 #### Additional Knowledge:
 
